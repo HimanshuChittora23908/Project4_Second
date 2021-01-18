@@ -1,0 +1,50 @@
+.skill{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+
+  .a,.b,.c,.d,.e,.f,.g,.h,.i{
+    border: solid #00001a 2px;
+    border-radius: 5px;
+    background-color:#00001a;
+    margin:8px;
+    color: white;
+  }
+
+  .hobbies{
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+  }
+  
+  .n,.o,.p,.q,.r,.s,.t,.u{
+    border: solid #00001a 2px;
+    border-radius: 5px;
+    margin:8px;
+  }
+
+  h3{
+    color: black;
+    border-top: black solid 2px;
+    border-bottom: black solid 2px;
+    text-transform: uppercase;
+  }
+  .contact{
+      margin-left: 16px;
+  }
+
+
+#div1{
+  margin-top: 20px;
+}
+
+.hidden{
+  padding-left: 15px;
+}
